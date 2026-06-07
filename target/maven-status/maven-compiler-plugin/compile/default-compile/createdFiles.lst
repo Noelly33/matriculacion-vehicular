@@ -1,0 +1,11 @@
+servicio\RegistroPersonas.class
+app\App.class
+modelo\Bus.class
+modelo\Persona.class
+modelo\Moto.class
+servicio\RegistroVehiculo.class
+modelo\Vehiculo.class
+modelo\Auto.class
+modelo\Matricula.class
+servicio\ServicioMatriculacion.class
+modelo\Camion.class
