@@ -17,7 +17,6 @@
 
     <dependencies>
 
-        <!-- 1. JUnit Jupiter: framework de pruebas unitarias -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -25,14 +24,12 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- 2. Log4j: registro de eventos y mensajes del sistema -->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
 
-        <!-- 3. Apache Commons Lang3: utilidades para manejo de texto y objetos -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
